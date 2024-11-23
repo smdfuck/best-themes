@@ -1,0 +1,22 @@
+{
+  "name": "purple-shades",
+  "displayName": "purple-shades",
+  "description": "Pretty theme in shades of purple",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "purple-shades",
+        "uiTheme": "vs-dark",
+        "path": "./themes/purple-shades-color-theme.json"
+      }
+    ]
+  },
+  "publisher": "smdfuck"
+}
