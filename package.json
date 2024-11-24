@@ -1,8 +1,8 @@
 {
-  "name": "purple-shades",
-  "displayName": "purple-shades",
-  "description": "Pretty theme in shades of purple",
-  "version": "0.0.4",
+  "name": "best-themes",
+  "displayName": "best-themes",
+  "description": "my fav themes",
+  "version": "0.0.8",
   "engines": {
     "vscode": "^1.95.0"
   },
@@ -15,6 +15,11 @@
         "label": "purple-shades",
         "uiTheme": "vs-dark",
         "path": "./themes/purple-shades-color-theme.json"
+      },
+      {
+        "label": "kanagawa",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kanagawa-color-theme.json"
       }
     ]
   },
