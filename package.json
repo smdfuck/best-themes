@@ -2,7 +2,7 @@
   "name": "best-themes",
   "displayName": "best-themes",
   "description": "my fav themes",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "engines": {
     "vscode": "^1.95.0"
   },

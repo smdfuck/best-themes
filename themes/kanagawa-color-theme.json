@@ -55,6 +55,14 @@
 		"statusBar.background": "#1F1F28",
 		"terminal.ansiBlack": "#1F1F28",
 		"editor.lineHighlightBackground": "#1F1F28",
+		"editor.lineHighlightBorder": "#c9cbff80",
+
+		// git
+		"gitDecoration.conflictingResourceForeground": "#DCA561",
+		"gitDecoration.deletedResourceForeground": "#f28fad",
+		"gitDecoration.ignoredResourceForeground": "#c9cbff40",
+		"gitDecoration.modifiedResourceForeground": "#957FB8",
+		"gitDecoration.untrackedResourceForeground": "#7AA89F",
 
 		"editor.selectionBackground": "#c9cbff80",
 		"editor.wordHighlightBackground": "#96cdfb50",
@@ -107,7 +115,6 @@
 		"editorSuggestWidget.border": "#16161d",
 		"editorWarning.foreground": "#FF9E3B",
 		"focusBorder": "#223249",
-		"gitDecoration.ignoredResourceForeground": "#727169",
 		"list.activeSelectionForeground": "#DCD7BA",
 		"list.focusBackground": "#2A2A37",
 		"list.focusForeground": "#DCD7BA",
